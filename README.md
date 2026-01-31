@@ -1,13 +1,11 @@
-# Next aryca
 
-africa
+  # Real-time Challenge Platform
 
-## Development
+  This is a code bundle for Real-time Challenge Platform. The original project is available at https://www.figma.com/design/DpBe5LJahfLxnewb0Xieka/Real-time-Challenge-Platform.
 
-⚙️ Setup (Windows / macOS / Linux):
+  ## Running the code
 
-1. Install Node.js LTS (v18+ recommended): https://nodejs.org/
-2. Install dependencies: `npm install` (or `pnpm install` / `yarn install` if you prefer)
-3. Start dev server: `npm run dev`
+  Run `npm i` to install the dependencies.
 
-Notes: Starter repository for the Next aryca platform.
+  Run `npm run dev` to start the development server.
+  
